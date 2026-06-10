@@ -1,5 +1,6 @@
 ## Hi there 👋. I'm Alain and I’m currently exploring AI systems.
 
+- 🎛️ [**knobkit**](https://github.com/knobkit/knobkit): A framework for AI apps — declare widgets, write handlers, and run the same file in the browser or on a Node server.
 - 🔎 [**openfable**](https://github.com/alainbrown/openfable): An open-source retrieval engine implementing FABLE — structured, hierarchy-aware RAG.
 - 🎓 [**helivar**](https://github.com/alainbrown/helivar): An adaptive AI tutor for NYC students preparing for the SHSAT.
 - 🧹 [**keeptidy**](https://github.com/alainbrown/keeptidy): A Chrome extension that periodically cleans browsing data for dormant sites.
