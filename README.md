@@ -12,6 +12,7 @@
 
 ### Experiments
 
+- 🧠 [**tiny-gpt**](https://github.com/alainbrown/tiny-gpt): An educational GPT implementation from scratch in PyTorch.
 - 🌀 [**diffusion-visualizer**](https://github.com/alainbrown/diffusion-visualizer): A Gradio app that visualizes DiffusionGemma denoising text — masked positions revealed in parallel over successive steps, not left-to-right.
 - 🔮 [**crystal**](https://github.com/alainbrown/crystal): A private, on-device AI chat panel for Chrome — runs Qwen3.5 in the browser via WebGPU, no server or API key.
 - 🗣️ [**catm**](https://github.com/alainbrown/catm): On-device long-form text-to-speech as a Chrome extension, powered by Kokoro 82M TTS in the browser — no server, no upload, no account.
