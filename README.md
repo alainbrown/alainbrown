@@ -7,6 +7,7 @@
 
 ### Devtools
 
+- 🧪 [**agent-testkit**](https://github.com/agent-testkit/agent-testkit): A deterministic, stateless OpenAI- and Anthropic-compatible HTTP server for agent integration testing.
 - 🧰 [**skills**](https://github.com/alainbrown/skills): Specialized workflows and structured expertise for AI coding agents.
 - 🏗️ [**stack-agent**](https://github.com/alainbrown/stack-agent): AI agent for developers to scaffold full-stack applications.
 - 💻 [**code-server**](https://github.com/alainbrown/code-server): A custom, auto-updating code-server Docker image pre-loaded with a full dev environment and optional SSH access.
