@@ -5,6 +5,12 @@
 - 🎓 [**helivar**](https://github.com/alainbrown/helivar): An adaptive AI tutor for NYC students preparing for the SHSAT.
 - 🧹 [**keeptidy**](https://github.com/alainbrown/keeptidy): A Chrome extension that periodically cleans browsing data for dormant sites.
 
+### Open Source at LinkedIn
+
+- 🚰 [**Apache Gobblin**](https://github.com/apache/gobblin): A distributed data integration framework for ingestion, replication, and lifecycle management across streaming and batch ecosystems. *Tech lead.*
+- 🏠 [**OpenHouse**](https://github.com/linkedin/openhouse): An open control plane for tables in the data lakehouse. *Contributor.*
+- 🌊 [**Apache Flink**](https://github.com/apache/flink): A framework for stateful computations over unbounded and bounded data streams. *Contributor.*
+
 ### Devtools
 
 - 🧪 [**agent-testkit**](https://github.com/agent-testkit/agent-testkit): A deterministic, stateless OpenAI- and Anthropic-compatible HTTP server for agent integration testing.
